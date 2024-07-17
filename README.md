@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-file MD001 MD033 -->
 <h1 align="center"><a href="https://github.com/AceAdxm">AceAdxm</a></h1>
-<p align="center">A young and upcoming developer wanting to broad my horizons and learning new things</p>
+<p align="center">A young and upcoming developer wanting to broad my horizons and wanting to learn new things</p>
 
 <!--
 **AceAdxm/AceAdxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
