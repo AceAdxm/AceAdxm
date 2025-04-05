@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-file MD001 MD033 -->
 <h1 align="center"><a href="https://github.com/AceAdxm">AceAdxm</a></h1>
 <p align="center"><em>A young and upcoming developer wanting to broad my horizons and wanting to learn new things</em></p>
-<p align="center"><em>Currently working on A modded mp3 client <a href="https://github.com/AceAdxm/simplexity">(simplexity)</a></em></p>
+
 
 
 <div align="center" style="margin-block: 1.5em">
