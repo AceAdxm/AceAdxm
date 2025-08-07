@@ -19,8 +19,7 @@
 	<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
   <h2>Status</h2>
   <div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
-    <a href="https://discord.com/users/1056203904280440884">
-  		<img src="https://lanyard.cnrad.dev/api/1056203904280440884?borderRadius=10px&animated=:true&bg=000000FF&idleMessage=Just+chillin%27" />
+    
 <div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">	    
 <a href="https://discord.com/users/1368742913760301100">
 		     <img src="https://lanyard.cnrad.dev/api/1368742913760301100?borderRadius=10px&animated=:true&bg=000000FF&idleMessage=Just+chillin%27" />
