@@ -10,7 +10,7 @@
 		<a href="https://youtube.com/@aceadxm"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/youtube.png?raw=true" /></a>
 		<a href="https://www.instagram.com/adxm.fr/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
 		<a href="https://open.spotify.com/user/kqsp3sgj9kxxrrjsnxwnda61u"><img width="48px" src="https://github.com/xifil/xifil/blob/master/assets/png/spotify.png?raw=true" /></a>
-		<a href="https://discord.com/users/1056203904280440884/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+		<a href="https://discord.com/users/1368742913760301100/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 	</div>
 	<div align="center" style="margin-block: 1.5em">
 	<h2>currently working in...</h2>
