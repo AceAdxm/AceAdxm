@@ -17,6 +17,9 @@
  <div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
 	<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+	 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+	<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a> 
   <h2>Status</h2>
   <div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
     
