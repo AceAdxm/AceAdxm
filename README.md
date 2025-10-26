@@ -20,6 +20,7 @@
     <a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime&theme=dark" /></a>
     <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
     <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" /></a>
+    <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" /></a>
     <a href="https://cursor.sh/"><img width="48px" src="https://api.iconify.design/ph/cursor-fill.svg?color=white" title="Cursor" /></a>
     <a href="https://www.hex-rays.com/products/ida/index.shtml">
       <img width="48px" src="https://api.iconify.design/mdi/alpha-i-circle-outline.svg?color=white" alt="IDA Pro" title="IDA Pro" />
