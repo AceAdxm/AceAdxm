@@ -20,10 +20,11 @@
     <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" /></a>
     <a href="https://cursor.sh/"><img width="48px" src="https://api.iconify.design/ph/cursor-fill.svg?color=white" title="Cursor" /></a>
     <a href="https://www.hex-rays.com/products/ida/index.shtml">
-      <img width="48px" src="https://software-sources.com/wp-content/uploads/2018/05/IDA-Pro.png" alt="IDA Pro" title="IDA Pro" />
+      <img width="48px" src="https://api.iconify.design/mdi/alpha-i-circle-outline.svg?color=white" alt="IDA Pro" title="IDA Pro" />
     </a>
   </div>
 </div>
+
 
 
   <h2>Currently Working In...</h2>
